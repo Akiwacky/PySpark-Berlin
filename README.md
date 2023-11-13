@@ -1,8 +1,6 @@
 # PySpark-Berlin
 
-Understanding Apache Spark and PySpark
-
-# Demystifying Apache Spark and PySpark: A Data Engineering Journey
+# Understanding Apache Spark and PySpark
 
 Embarking on a journey through the world of Data Engineering, I discovered the power of Apache Spark and PySpark. To get really familiar with the concept, I wanted to learn the theory, simplify it in layman's terms, and then put it into practice via code. My goal? To break down the complexities of Apache Spark and PySpark into understandable concepts and demonstrate their practical application through a mini-project. This article aims to illuminate the quality of these tools and their profound impact on big data analysis.
 
